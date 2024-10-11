@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.gopinathannadurai.com/sitemap.xml
+Sitemap: https://gopinath.github.io/sitemap.xml
